@@ -17,7 +17,7 @@
             ]
         },
         "streamSettings": {
-            "network": "kcp"
+            "network": "tcp"
         }
     },
     "outbound": {
