@@ -10,14 +10,14 @@
         "settings": {
             "clients": [
                 {
-                    "id": "acce5659-6133-a118-44a4-910404047825",
+                    "id": "06e661fa-42e0-c646-220f-da2ab8ea59de",
                     "level": 1,
                     "alterId": 64
                 }
             ]
         },
         "streamSettings": {
-            "network": "tcp"
+            "network": "kcp"
         }
     },
     "outbound": {
